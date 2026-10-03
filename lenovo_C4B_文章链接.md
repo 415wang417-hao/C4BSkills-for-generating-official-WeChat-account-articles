@@ -19,7 +19,7 @@ AIGC:
 
 | 字段 | 内容 |
 |------|------|
-| 标题 | 基于 Starter Kit 的公众号文章生成技能：从 Markdown 到公众号 HTML 的全自动化流水线 |
+| 标题 | 我把 Markdown 一键变公众号：从 starter kit 到内容发布流水线的完整复盘 |
 | 作者 | lenovo |
 | 日期 | 2026-10-03 |
 | 摘要 | 本文记录了从零理解 starter kit、用 skill-creator 思路定制 wechat-publisher-pro 技能（9 项新增能力）、编写真实文章并转换成公众号 HTML 的完整过程。 |
